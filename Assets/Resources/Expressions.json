@@ -1,0 +1,2254 @@
+{
+  "problems": [
+    {
+      "value": 1,
+      "level": 1,
+      "expression": "0 + 1"
+    },
+    {
+      "value": 1,
+      "level": 2,
+      "expression": "9 − 8"
+    },
+    {
+      "value": 1,
+      "level": 3,
+      "expression": "2 × 3 − 5"
+    },
+    {
+      "value": 1,
+      "level": 4,
+      "expression": "(4 + 5) × 4 − 35"
+    },
+    {
+      "value": 1,
+      "level": 5,
+      "expression": "√64 + 4² − 23"
+    },
+    {
+      "value": 2,
+      "level": 1,
+      "expression": "0 + 2"
+    },
+    {
+      "value": 2,
+      "level": 2,
+      "expression": "11 − 9"
+    },
+    {
+      "value": 2,
+      "level": 3,
+      "expression": "2 × 4 − 6"
+    },
+    {
+      "value": 2,
+      "level": 4,
+      "expression": "(5 + 6) × 5 − 53"
+    },
+    {
+      "value": 2,
+      "level": 5,
+      "expression": "√81 + 5² − 32"
+    },
+    {
+      "value": 3,
+      "level": 1,
+      "expression": "1 + 2"
+    },
+    {
+      "value": 3,
+      "level": 2,
+      "expression": "13 − 10"
+    },
+    {
+      "value": 3,
+      "level": 3,
+      "expression": "2 × 5 − 7"
+    },
+    {
+      "value": 3,
+      "level": 4,
+      "expression": "(6 + 7) × 6 − 75"
+    },
+    {
+      "value": 3,
+      "level": 5,
+      "expression": "√100 + 6² − 43"
+    },
+    {
+      "value": 4,
+      "level": 1,
+      "expression": "1 + 3"
+    },
+    {
+      "value": 4,
+      "level": 2,
+      "expression": "15 − 11"
+    },
+    {
+      "value": 4,
+      "level": 3,
+      "expression": "2 × 6 − 8"
+    },
+    {
+      "value": 4,
+      "level": 4,
+      "expression": "(7 + 8) × 7 − 101"
+    },
+    {
+      "value": 4,
+      "level": 5,
+      "expression": "√121 + 7² − 56"
+    },
+    {
+      "value": 5,
+      "level": 1,
+      "expression": "2 + 3"
+    },
+    {
+      "value": 5,
+      "level": 2,
+      "expression": "17 − 12"
+    },
+    {
+      "value": 5,
+      "level": 3,
+      "expression": "2 × 7 − 9"
+    },
+    {
+      "value": 5,
+      "level": 4,
+      "expression": "(8 + 9) × 3 − 46"
+    },
+    {
+      "value": 5,
+      "level": 5,
+      "expression": "√144 + 8² − 71"
+    },
+    {
+      "value": 6,
+      "level": 1,
+      "expression": "2 + 4"
+    },
+    {
+      "value": 6,
+      "level": 2,
+      "expression": "19 − 13"
+    },
+    {
+      "value": 6,
+      "level": 3,
+      "expression": "2 × 8 − 10"
+    },
+    {
+      "value": 6,
+      "level": 4,
+      "expression": "(9 + 4) × 4 − 46"
+    },
+    {
+      "value": 6,
+      "level": 5,
+      "expression": "√169 + 9² − 88"
+    },
+    {
+      "value": 7,
+      "level": 1,
+      "expression": "3 + 4"
+    },
+    {
+      "value": 7,
+      "level": 2,
+      "expression": "21 − 14"
+    },
+    {
+      "value": 7,
+      "level": 3,
+      "expression": "5 × 2 − 3"
+    },
+    {
+      "value": 7,
+      "level": 4,
+      "expression": "(10 + 5) × 5 − 68"
+    },
+    {
+      "value": 7,
+      "level": 5,
+      "expression": "√196 + 3² − 16"
+    },
+    {
+      "value": 8,
+      "level": 1,
+      "expression": "3 + 5"
+    },
+    {
+      "value": 8,
+      "level": 2,
+      "expression": "23 − 15"
+    },
+    {
+      "value": 8,
+      "level": 3,
+      "expression": "4 × 3 − 4"
+    },
+    {
+      "value": 8,
+      "level": 4,
+      "expression": "(11 + 6) × 6 − 94"
+    },
+    {
+      "value": 8,
+      "level": 5,
+      "expression": "√225 + 4² − 23"
+    },
+    {
+      "value": 9,
+      "level": 1,
+      "expression": "3 + 6"
+    },
+    {
+      "value": 9,
+      "level": 2,
+      "expression": "25 − 16"
+    },
+    {
+      "value": 9,
+      "level": 3,
+      "expression": "4 × 4 − 7"
+    },
+    {
+      "value": 9,
+      "level": 4,
+      "expression": "(3 + 7) × 7 − 61"
+    },
+    {
+      "value": 9,
+      "level": 5,
+      "expression": "√256 + 5² − 32"
+    },
+    {
+      "value": 10,
+      "level": 1,
+      "expression": "4 + 6"
+    },
+    {
+      "value": 10,
+      "level": 2,
+      "expression": "27 − 17"
+    },
+    {
+      "value": 10,
+      "level": 3,
+      "expression": "3 × 5 − 5"
+    },
+    {
+      "value": 10,
+      "level": 4,
+      "expression": "(4 + 8) × 3 − 26"
+    },
+    {
+      "value": 10,
+      "level": 5,
+      "expression": "√289 + 6² − 43"
+    },
+    {
+      "value": 11,
+      "level": 1,
+      "expression": "4 + 7"
+    },
+    {
+      "value": 11,
+      "level": 2,
+      "expression": "29 − 18"
+    },
+    {
+      "value": 11,
+      "level": 3,
+      "expression": "3 × 6 − 7"
+    },
+    {
+      "value": 11,
+      "level": 4,
+      "expression": "(5 + 9) × 4 − 45"
+    },
+    {
+      "value": 11,
+      "level": 5,
+      "expression": "√49 + 7² − 45"
+    },
+    {
+      "value": 12,
+      "level": 1,
+      "expression": "5 + 7"
+    },
+    {
+      "value": 12,
+      "level": 2,
+      "expression": "31 − 19"
+    },
+    {
+      "value": 12,
+      "level": 3,
+      "expression": "3 × 7 − 9"
+    },
+    {
+      "value": 12,
+      "level": 4,
+      "expression": "(6 + 4) × 5 − 38"
+    },
+    {
+      "value": 12,
+      "level": 5,
+      "expression": "√64 + 8² − 60"
+    },
+    {
+      "value": 13,
+      "level": 1,
+      "expression": "5 + 8"
+    },
+    {
+      "value": 13,
+      "level": 2,
+      "expression": "33 − 20"
+    },
+    {
+      "value": 13,
+      "level": 3,
+      "expression": "3 × 8 − 11"
+    },
+    {
+      "value": 13,
+      "level": 4,
+      "expression": "(7 + 5) × 6 − 59"
+    },
+    {
+      "value": 13,
+      "level": 5,
+      "expression": "√81 + 9² − 77"
+    },
+    {
+      "value": 14,
+      "level": 1,
+      "expression": "6 + 8"
+    },
+    {
+      "value": 14,
+      "level": 2,
+      "expression": "35 − 21"
+    },
+    {
+      "value": 14,
+      "level": 3,
+      "expression": "8 × 2 − 2"
+    },
+    {
+      "value": 14,
+      "level": 4,
+      "expression": "(8 + 6) × 7 − 84"
+    },
+    {
+      "value": 14,
+      "level": 5,
+      "expression": "√100 + 3² − 5"
+    },
+    {
+      "value": 15,
+      "level": 1,
+      "expression": "6 + 9"
+    },
+    {
+      "value": 15,
+      "level": 2,
+      "expression": "37 − 22"
+    },
+    {
+      "value": 15,
+      "level": 3,
+      "expression": "6 × 3 − 3"
+    },
+    {
+      "value": 15,
+      "level": 4,
+      "expression": "(9 + 7) × 3 − 33"
+    },
+    {
+      "value": 15,
+      "level": 5,
+      "expression": "√121 + 4² − 12"
+    },
+    {
+      "value": 16,
+      "level": 1,
+      "expression": "6 + 10"
+    },
+    {
+      "value": 16,
+      "level": 2,
+      "expression": "39 − 23"
+    },
+    {
+      "value": 16,
+      "level": 3,
+      "expression": "5 × 4 − 4"
+    },
+    {
+      "value": 16,
+      "level": 4,
+      "expression": "(10 + 8) × 4 − 56"
+    },
+    {
+      "value": 16,
+      "level": 5,
+      "expression": "√144 + 5² − 21"
+    },
+    {
+      "value": 17,
+      "level": 1,
+      "expression": "7 + 10"
+    },
+    {
+      "value": 17,
+      "level": 2,
+      "expression": "24 − 7"
+    },
+    {
+      "value": 17,
+      "level": 3,
+      "expression": "5 × 5 − 8"
+    },
+    {
+      "value": 17,
+      "level": 4,
+      "expression": "(11 + 9) × 5 − 83"
+    },
+    {
+      "value": 17,
+      "level": 5,
+      "expression": "√169 + 6² − 32"
+    },
+    {
+      "value": 18,
+      "level": 1,
+      "expression": "7 + 11"
+    },
+    {
+      "value": 18,
+      "level": 2,
+      "expression": "26 − 8"
+    },
+    {
+      "value": 18,
+      "level": 3,
+      "expression": "4 × 6 − 6"
+    },
+    {
+      "value": 18,
+      "level": 4,
+      "expression": "(3 + 4) × 6 − 24"
+    },
+    {
+      "value": 18,
+      "level": 5,
+      "expression": "√196 + 7² − 45"
+    },
+    {
+      "value": 19,
+      "level": 1,
+      "expression": "8 + 11"
+    },
+    {
+      "value": 19,
+      "level": 2,
+      "expression": "28 − 9"
+    },
+    {
+      "value": 19,
+      "level": 3,
+      "expression": "4 × 7 − 9"
+    },
+    {
+      "value": 19,
+      "level": 4,
+      "expression": "(4 + 5) × 7 − 44"
+    },
+    {
+      "value": 19,
+      "level": 5,
+      "expression": "√225 + 8² − 60"
+    },
+    {
+      "value": 20,
+      "level": 1,
+      "expression": "8 + 12"
+    },
+    {
+      "value": 20,
+      "level": 2,
+      "expression": "30 − 10"
+    },
+    {
+      "value": 20,
+      "level": 3,
+      "expression": "4 × 8 − 12"
+    },
+    {
+      "value": 20,
+      "level": 4,
+      "expression": "(5 + 6) × 3 − 13"
+    },
+    {
+      "value": 20,
+      "level": 5,
+      "expression": "√256 + 9² − 77"
+    },
+    {
+      "value": 21,
+      "level": 1,
+      "expression": "9 + 12"
+    },
+    {
+      "value": 21,
+      "level": 2,
+      "expression": "32 − 11"
+    },
+    {
+      "value": 21,
+      "level": 3,
+      "expression": "12 × 2 − 3"
+    },
+    {
+      "value": 21,
+      "level": 4,
+      "expression": "(6 + 7) × 4 − 31"
+    },
+    {
+      "value": 21,
+      "level": 5,
+      "expression": "√289 + 3² − 5"
+    },
+    {
+      "value": 22,
+      "level": 1,
+      "expression": "9 + 13"
+    },
+    {
+      "value": 22,
+      "level": 2,
+      "expression": "34 − 12"
+    },
+    {
+      "value": 22,
+      "level": 3,
+      "expression": "9 × 3 − 5"
+    },
+    {
+      "value": 22,
+      "level": 4,
+      "expression": "(7 + 8) × 5 − 53"
+    },
+    {
+      "value": 22,
+      "level": 5,
+      "expression": "√49 + 4² − 1"
+    },
+    {
+      "value": 23,
+      "level": 1,
+      "expression": "9 + 14"
+    },
+    {
+      "value": 23,
+      "level": 2,
+      "expression": "36 − 13"
+    },
+    {
+      "value": 23,
+      "level": 3,
+      "expression": "7 × 4 − 5"
+    },
+    {
+      "value": 23,
+      "level": 4,
+      "expression": "(8 + 9) × 6 − 79"
+    },
+    {
+      "value": 23,
+      "level": 5,
+      "expression": "√64 + 5² − 10"
+    },
+    {
+      "value": 24,
+      "level": 1,
+      "expression": "10 + 14"
+    },
+    {
+      "value": 24,
+      "level": 2,
+      "expression": "38 − 14"
+    },
+    {
+      "value": 24,
+      "level": 3,
+      "expression": "6 × 5 − 6"
+    },
+    {
+      "value": 24,
+      "level": 4,
+      "expression": "(9 + 4) × 7 − 67"
+    },
+    {
+      "value": 24,
+      "level": 5,
+      "expression": "√81 + 6² − 21"
+    },
+    {
+      "value": 25,
+      "level": 1,
+      "expression": "10 + 15"
+    },
+    {
+      "value": 25,
+      "level": 2,
+      "expression": "40 − 15"
+    },
+    {
+      "value": 25,
+      "level": 3,
+      "expression": "6 × 6 − 11"
+    },
+    {
+      "value": 25,
+      "level": 4,
+      "expression": "(10 + 5) × 3 − 20"
+    },
+    {
+      "value": 25,
+      "level": 5,
+      "expression": "√100 + 7² − 34"
+    },
+    {
+      "value": 26,
+      "level": 1,
+      "expression": "11 + 15"
+    },
+    {
+      "value": 26,
+      "level": 2,
+      "expression": "42 − 16"
+    },
+    {
+      "value": 26,
+      "level": 3,
+      "expression": "5 × 7 − 9"
+    },
+    {
+      "value": 26,
+      "level": 4,
+      "expression": "(11 + 6) × 4 − 42"
+    },
+    {
+      "value": 26,
+      "level": 5,
+      "expression": "√121 + 8² − 49"
+    },
+    {
+      "value": 27,
+      "level": 1,
+      "expression": "11 + 16"
+    },
+    {
+      "value": 27,
+      "level": 2,
+      "expression": "44 − 17"
+    },
+    {
+      "value": 27,
+      "level": 3,
+      "expression": "5 × 8 − 13"
+    },
+    {
+      "value": 27,
+      "level": 4,
+      "expression": "(3 + 7) × 5 − 23"
+    },
+    {
+      "value": 27,
+      "level": 5,
+      "expression": "√144 + 9² − 66"
+    },
+    {
+      "value": 28,
+      "level": 1,
+      "expression": "12 + 16"
+    },
+    {
+      "value": 28,
+      "level": 2,
+      "expression": "46 − 18"
+    },
+    {
+      "value": 28,
+      "level": 3,
+      "expression": "15 × 2 − 2"
+    },
+    {
+      "value": 28,
+      "level": 4,
+      "expression": "(4 + 8) × 6 − 44"
+    },
+    {
+      "value": 28,
+      "level": 5,
+      "expression": "√169 + 3² + 6"
+    },
+    {
+      "value": 29,
+      "level": 1,
+      "expression": "12 + 17"
+    },
+    {
+      "value": 29,
+      "level": 2,
+      "expression": "48 − 19"
+    },
+    {
+      "value": 29,
+      "level": 3,
+      "expression": "11 × 3 − 4"
+    },
+    {
+      "value": 29,
+      "level": 4,
+      "expression": "(5 + 9) × 7 − 69"
+    },
+    {
+      "value": 29,
+      "level": 5,
+      "expression": "√196 + 4² − 1"
+    },
+    {
+      "value": 30,
+      "level": 1,
+      "expression": "12 + 18"
+    },
+    {
+      "value": 30,
+      "level": 2,
+      "expression": "50 − 20"
+    },
+    {
+      "value": 30,
+      "level": 3,
+      "expression": "9 × 4 − 6"
+    },
+    {
+      "value": 30,
+      "level": 4,
+      "expression": "(6 + 4) × 3 − 0"
+    },
+    {
+      "value": 30,
+      "level": 5,
+      "expression": "√225 + 5² − 10"
+    },
+    {
+      "value": 31,
+      "level": 1,
+      "expression": "13 + 18"
+    },
+    {
+      "value": 31,
+      "level": 2,
+      "expression": "52 − 21"
+    },
+    {
+      "value": 31,
+      "level": 3,
+      "expression": "8 × 5 − 9"
+    },
+    {
+      "value": 31,
+      "level": 4,
+      "expression": "(7 + 5) × 4 − 17"
+    },
+    {
+      "value": 31,
+      "level": 5,
+      "expression": "√256 + 6² − 21"
+    },
+    {
+      "value": 32,
+      "level": 1,
+      "expression": "13 + 19"
+    },
+    {
+      "value": 32,
+      "level": 2,
+      "expression": "54 − 22"
+    },
+    {
+      "value": 32,
+      "level": 3,
+      "expression": "7 × 6 − 10"
+    },
+    {
+      "value": 32,
+      "level": 4,
+      "expression": "(8 + 6) × 5 − 38"
+    },
+    {
+      "value": 32,
+      "level": 5,
+      "expression": "√289 + 7² − 34"
+    },
+    {
+      "value": 33,
+      "level": 1,
+      "expression": "14 + 19"
+    },
+    {
+      "value": 33,
+      "level": 2,
+      "expression": "56 − 23"
+    },
+    {
+      "value": 33,
+      "level": 3,
+      "expression": "6 × 7 − 9"
+    },
+    {
+      "value": 33,
+      "level": 4,
+      "expression": "(9 + 7) × 6 − 63"
+    },
+    {
+      "value": 33,
+      "level": 5,
+      "expression": "√49 + 8² − 38"
+    },
+    {
+      "value": 34,
+      "level": 1,
+      "expression": "14 + 20"
+    },
+    {
+      "value": 34,
+      "level": 2,
+      "expression": "41 − 7"
+    },
+    {
+      "value": 34,
+      "level": 3,
+      "expression": "6 × 8 − 14"
+    },
+    {
+      "value": 34,
+      "level": 4,
+      "expression": "(10 + 8) × 7 − 92"
+    },
+    {
+      "value": 34,
+      "level": 5,
+      "expression": "√64 + 9² − 55"
+    },
+    {
+      "value": 35,
+      "level": 1,
+      "expression": "15 + 20"
+    },
+    {
+      "value": 35,
+      "level": 2,
+      "expression": "43 − 8"
+    },
+    {
+      "value": 35,
+      "level": 3,
+      "expression": "19 × 2 − 3"
+    },
+    {
+      "value": 35,
+      "level": 4,
+      "expression": "(11 + 9) × 3 − 25"
+    },
+    {
+      "value": 35,
+      "level": 5,
+      "expression": "√81 + 3² + 17"
+    },
+    {
+      "value": 36,
+      "level": 1,
+      "expression": "15 + 21"
+    },
+    {
+      "value": 36,
+      "level": 2,
+      "expression": "45 − 9"
+    },
+    {
+      "value": 36,
+      "level": 3,
+      "expression": "13 × 3 − 3"
+    },
+    {
+      "value": 36,
+      "level": 4,
+      "expression": "(3 + 4) × 4 + 8"
+    },
+    {
+      "value": 36,
+      "level": 5,
+      "expression": "√100 + 4² + 10"
+    },
+    {
+      "value": 37,
+      "level": 1,
+      "expression": "15 + 22"
+    },
+    {
+      "value": 37,
+      "level": 2,
+      "expression": "47 − 10"
+    },
+    {
+      "value": 37,
+      "level": 3,
+      "expression": "11 × 4 − 7"
+    },
+    {
+      "value": 37,
+      "level": 4,
+      "expression": "(4 + 5) × 5 − 8"
+    },
+    {
+      "value": 37,
+      "level": 5,
+      "expression": "√121 + 5² + 1"
+    },
+    {
+      "value": 38,
+      "level": 1,
+      "expression": "16 + 22"
+    },
+    {
+      "value": 38,
+      "level": 2,
+      "expression": "49 − 11"
+    },
+    {
+      "value": 38,
+      "level": 3,
+      "expression": "9 × 5 − 7"
+    },
+    {
+      "value": 38,
+      "level": 4,
+      "expression": "(5 + 6) × 6 − 28"
+    },
+    {
+      "value": 38,
+      "level": 5,
+      "expression": "√144 + 6² − 10"
+    },
+    {
+      "value": 39,
+      "level": 1,
+      "expression": "16 + 23"
+    },
+    {
+      "value": 39,
+      "level": 2,
+      "expression": "51 − 12"
+    },
+    {
+      "value": 39,
+      "level": 3,
+      "expression": "8 × 6 − 9"
+    },
+    {
+      "value": 39,
+      "level": 4,
+      "expression": "(6 + 7) × 7 − 52"
+    },
+    {
+      "value": 39,
+      "level": 5,
+      "expression": "√169 + 7² − 23"
+    },
+    {
+      "value": 40,
+      "level": 1,
+      "expression": "17 + 23"
+    },
+    {
+      "value": 40,
+      "level": 2,
+      "expression": "53 − 13"
+    },
+    {
+      "value": 40,
+      "level": 3,
+      "expression": "7 × 7 − 9"
+    },
+    {
+      "value": 40,
+      "level": 4,
+      "expression": "(7 + 8) × 3 − 5"
+    },
+    {
+      "value": 40,
+      "level": 5,
+      "expression": "√196 + 8² − 38"
+    },
+    {
+      "value": 41,
+      "level": 1,
+      "expression": "17 + 24"
+    },
+    {
+      "value": 41,
+      "level": 2,
+      "expression": "55 − 14"
+    },
+    {
+      "value": 41,
+      "level": 3,
+      "expression": "7 × 8 − 15"
+    },
+    {
+      "value": 41,
+      "level": 4,
+      "expression": "(8 + 9) × 4 − 27"
+    },
+    {
+      "value": 41,
+      "level": 5,
+      "expression": "√225 + 9² − 55"
+    },
+    {
+      "value": 42,
+      "level": 1,
+      "expression": "18 + 24"
+    },
+    {
+      "value": 42,
+      "level": 2,
+      "expression": "57 − 15"
+    },
+    {
+      "value": 42,
+      "level": 3,
+      "expression": "22 × 2 − 2"
+    },
+    {
+      "value": 42,
+      "level": 4,
+      "expression": "(9 + 4) × 5 − 23"
+    },
+    {
+      "value": 42,
+      "level": 5,
+      "expression": "√256 + 3² + 17"
+    },
+    {
+      "value": 43,
+      "level": 1,
+      "expression": "18 + 25"
+    },
+    {
+      "value": 43,
+      "level": 2,
+      "expression": "59 − 16"
+    },
+    {
+      "value": 43,
+      "level": 3,
+      "expression": "16 × 3 − 5"
+    },
+    {
+      "value": 43,
+      "level": 4,
+      "expression": "(10 + 5) × 6 − 47"
+    },
+    {
+      "value": 43,
+      "level": 5,
+      "expression": "√289 + 4² + 10"
+    },
+    {
+      "value": 44,
+      "level": 1,
+      "expression": "18 + 26"
+    },
+    {
+      "value": 44,
+      "level": 2,
+      "expression": "61 − 17"
+    },
+    {
+      "value": 44,
+      "level": 3,
+      "expression": "12 × 4 − 4"
+    },
+    {
+      "value": 44,
+      "level": 4,
+      "expression": "(11 + 6) × 7 − 75"
+    },
+    {
+      "value": 44,
+      "level": 5,
+      "expression": "√49 + 5² + 12"
+    },
+    {
+      "value": 45,
+      "level": 1,
+      "expression": "19 + 26"
+    },
+    {
+      "value": 45,
+      "level": 2,
+      "expression": "63 − 18"
+    },
+    {
+      "value": 45,
+      "level": 3,
+      "expression": "10 × 5 − 5"
+    },
+    {
+      "value": 45,
+      "level": 4,
+      "expression": "(3 + 7) × 3 + 15"
+    },
+    {
+      "value": 45,
+      "level": 5,
+      "expression": "√64 + 6² + 1"
+    },
+    {
+      "value": 46,
+      "level": 1,
+      "expression": "19 + 27"
+    },
+    {
+      "value": 46,
+      "level": 2,
+      "expression": "65 − 19"
+    },
+    {
+      "value": 46,
+      "level": 3,
+      "expression": "9 × 6 − 8"
+    },
+    {
+      "value": 46,
+      "level": 4,
+      "expression": "(4 + 8) × 4 − 2"
+    },
+    {
+      "value": 46,
+      "level": 5,
+      "expression": "√81 + 7² − 12"
+    },
+    {
+      "value": 47,
+      "level": 1,
+      "expression": "20 + 27"
+    },
+    {
+      "value": 47,
+      "level": 2,
+      "expression": "67 − 20"
+    },
+    {
+      "value": 47,
+      "level": 3,
+      "expression": "8 × 7 − 9"
+    },
+    {
+      "value": 47,
+      "level": 4,
+      "expression": "(5 + 9) × 5 − 23"
+    },
+    {
+      "value": 47,
+      "level": 5,
+      "expression": "√100 + 8² − 27"
+    },
+    {
+      "value": 48,
+      "level": 1,
+      "expression": "20 + 28"
+    },
+    {
+      "value": 48,
+      "level": 2,
+      "expression": "69 − 21"
+    },
+    {
+      "value": 48,
+      "level": 3,
+      "expression": "7 × 8 − 8"
+    },
+    {
+      "value": 48,
+      "level": 4,
+      "expression": "(6 + 4) × 6 − 12"
+    },
+    {
+      "value": 48,
+      "level": 5,
+      "expression": "√121 + 9² − 44"
+    },
+    {
+      "value": 49,
+      "level": 1,
+      "expression": "21 + 28"
+    },
+    {
+      "value": 49,
+      "level": 2,
+      "expression": "71 − 22"
+    },
+    {
+      "value": 49,
+      "level": 3,
+      "expression": "26 × 2 − 3"
+    },
+    {
+      "value": 49,
+      "level": 4,
+      "expression": "(7 + 5) × 7 − 35"
+    },
+    {
+      "value": 49,
+      "level": 5,
+      "expression": "√144 + 3² + 28"
+    },
+    {
+      "value": 50,
+      "level": 1,
+      "expression": "21 + 29"
+    },
+    {
+      "value": 50,
+      "level": 2,
+      "expression": "73 − 23"
+    },
+    {
+      "value": 50,
+      "level": 3,
+      "expression": "18 × 3 − 4"
+    },
+    {
+      "value": 50,
+      "level": 4,
+      "expression": "(8 + 6) × 3 + 8"
+    },
+    {
+      "value": 50,
+      "level": 5,
+      "expression": "√169 + 4² + 21"
+    },
+    {
+      "value": 51,
+      "level": 1,
+      "expression": "21 + 30"
+    },
+    {
+      "value": 51,
+      "level": 2,
+      "expression": "58 − 7"
+    },
+    {
+      "value": 51,
+      "level": 3,
+      "expression": "14 × 4 − 5"
+    },
+    {
+      "value": 51,
+      "level": 4,
+      "expression": "(9 + 7) × 4 − 13"
+    },
+    {
+      "value": 51,
+      "level": 5,
+      "expression": "√196 + 5² + 12"
+    },
+    {
+      "value": 52,
+      "level": 1,
+      "expression": "22 + 30"
+    },
+    {
+      "value": 52,
+      "level": 2,
+      "expression": "60 − 8"
+    },
+    {
+      "value": 52,
+      "level": 3,
+      "expression": "12 × 5 − 8"
+    },
+    {
+      "value": 52,
+      "level": 4,
+      "expression": "(10 + 8) × 5 − 38"
+    },
+    {
+      "value": 52,
+      "level": 5,
+      "expression": "√225 + 6² + 1"
+    },
+    {
+      "value": 53,
+      "level": 1,
+      "expression": "22 + 31"
+    },
+    {
+      "value": 53,
+      "level": 2,
+      "expression": "62 − 9"
+    },
+    {
+      "value": 53,
+      "level": 3,
+      "expression": "10 × 6 − 7"
+    },
+    {
+      "value": 53,
+      "level": 4,
+      "expression": "(11 + 9) × 6 − 67"
+    },
+    {
+      "value": 53,
+      "level": 5,
+      "expression": "√256 + 7² − 12"
+    },
+    {
+      "value": 54,
+      "level": 1,
+      "expression": "23 + 31"
+    },
+    {
+      "value": 54,
+      "level": 2,
+      "expression": "64 − 10"
+    },
+    {
+      "value": 54,
+      "level": 3,
+      "expression": "9 × 7 − 9"
+    },
+    {
+      "value": 54,
+      "level": 4,
+      "expression": "(3 + 4) × 7 + 5"
+    },
+    {
+      "value": 54,
+      "level": 5,
+      "expression": "√289 + 8² − 27"
+    },
+    {
+      "value": 55,
+      "level": 1,
+      "expression": "23 + 32"
+    },
+    {
+      "value": 55,
+      "level": 2,
+      "expression": "66 − 11"
+    },
+    {
+      "value": 55,
+      "level": 3,
+      "expression": "8 × 8 − 9"
+    },
+    {
+      "value": 55,
+      "level": 4,
+      "expression": "(4 + 5) × 3 + 28"
+    },
+    {
+      "value": 55,
+      "level": 5,
+      "expression": "√49 + 9² − 33"
+    },
+    {
+      "value": 56,
+      "level": 1,
+      "expression": "24 + 32"
+    },
+    {
+      "value": 56,
+      "level": 2,
+      "expression": "68 − 12"
+    },
+    {
+      "value": 56,
+      "level": 3,
+      "expression": "29 × 2 − 2"
+    },
+    {
+      "value": 56,
+      "level": 4,
+      "expression": "(5 + 6) × 4 + 12"
+    },
+    {
+      "value": 56,
+      "level": 5,
+      "expression": "√64 + 3² + 39"
+    },
+    {
+      "value": 57,
+      "level": 1,
+      "expression": "24 + 33"
+    },
+    {
+      "value": 57,
+      "level": 2,
+      "expression": "70 − 13"
+    },
+    {
+      "value": 57,
+      "level": 3,
+      "expression": "20 × 3 − 3"
+    },
+    {
+      "value": 57,
+      "level": 4,
+      "expression": "(6 + 7) × 5 − 8"
+    },
+    {
+      "value": 57,
+      "level": 5,
+      "expression": "√81 + 4² + 32"
+    },
+    {
+      "value": 58,
+      "level": 1,
+      "expression": "24 + 34"
+    },
+    {
+      "value": 58,
+      "level": 2,
+      "expression": "72 − 14"
+    },
+    {
+      "value": 58,
+      "level": 3,
+      "expression": "16 × 4 − 6"
+    },
+    {
+      "value": 58,
+      "level": 4,
+      "expression": "(7 + 8) × 6 − 32"
+    },
+    {
+      "value": 58,
+      "level": 5,
+      "expression": "√100 + 5² + 23"
+    },
+    {
+      "value": 59,
+      "level": 1,
+      "expression": "25 + 34"
+    },
+    {
+      "value": 59,
+      "level": 2,
+      "expression": "74 − 15"
+    },
+    {
+      "value": 59,
+      "level": 3,
+      "expression": "13 × 5 − 6"
+    },
+    {
+      "value": 59,
+      "level": 4,
+      "expression": "(8 + 9) × 7 − 60"
+    },
+    {
+      "value": 59,
+      "level": 5,
+      "expression": "√121 + 6² + 12"
+    },
+    {
+      "value": 60,
+      "level": 1,
+      "expression": "25 + 35"
+    },
+    {
+      "value": 60,
+      "level": 2,
+      "expression": "76 − 16"
+    },
+    {
+      "value": 60,
+      "level": 3,
+      "expression": "11 × 6 − 6"
+    },
+    {
+      "value": 60,
+      "level": 4,
+      "expression": "(9 + 4) × 3 + 21"
+    },
+    {
+      "value": 60,
+      "level": 5,
+      "expression": "√144 + 7² − 1"
+    },
+    {
+      "value": 61,
+      "level": 1,
+      "expression": "26 + 35"
+    },
+    {
+      "value": 61,
+      "level": 2,
+      "expression": "78 − 17"
+    },
+    {
+      "value": 61,
+      "level": 3,
+      "expression": "10 × 7 − 9"
+    },
+    {
+      "value": 61,
+      "level": 4,
+      "expression": "(10 + 5) × 4 + 1"
+    },
+    {
+      "value": 61,
+      "level": 5,
+      "expression": "√169 + 8² − 16"
+    },
+    {
+      "value": 62,
+      "level": 1,
+      "expression": "26 + 36"
+    },
+    {
+      "value": 62,
+      "level": 2,
+      "expression": "80 − 18"
+    },
+    {
+      "value": 62,
+      "level": 3,
+      "expression": "9 × 8 − 10"
+    },
+    {
+      "value": 62,
+      "level": 4,
+      "expression": "(11 + 6) × 5 − 23"
+    },
+    {
+      "value": 62,
+      "level": 5,
+      "expression": "√196 + 9² − 33"
+    },
+    {
+      "value": 63,
+      "level": 1,
+      "expression": "27 + 36"
+    },
+    {
+      "value": 63,
+      "level": 2,
+      "expression": "82 − 19"
+    },
+    {
+      "value": 63,
+      "level": 3,
+      "expression": "33 × 2 − 3"
+    },
+    {
+      "value": 63,
+      "level": 4,
+      "expression": "(3 + 7) × 6 + 3"
+    },
+    {
+      "value": 63,
+      "level": 5,
+      "expression": "√225 + 3² + 39"
+    },
+    {
+      "value": 64,
+      "level": 1,
+      "expression": "27 + 37"
+    },
+    {
+      "value": 64,
+      "level": 2,
+      "expression": "84 − 20"
+    },
+    {
+      "value": 64,
+      "level": 3,
+      "expression": "23 × 3 − 5"
+    },
+    {
+      "value": 64,
+      "level": 4,
+      "expression": "(4 + 8) × 7 − 20"
+    },
+    {
+      "value": 64,
+      "level": 5,
+      "expression": "√256 + 4² + 32"
+    },
+    {
+      "value": 65,
+      "level": 1,
+      "expression": "27 + 38"
+    },
+    {
+      "value": 65,
+      "level": 2,
+      "expression": "86 − 21"
+    },
+    {
+      "value": 65,
+      "level": 3,
+      "expression": "18 × 4 − 7"
+    },
+    {
+      "value": 65,
+      "level": 4,
+      "expression": "(5 + 9) × 3 + 23"
+    },
+    {
+      "value": 65,
+      "level": 5,
+      "expression": "√289 + 5² + 23"
+    },
+    {
+      "value": 66,
+      "level": 1,
+      "expression": "28 + 38"
+    },
+    {
+      "value": 66,
+      "level": 2,
+      "expression": "88 − 22"
+    },
+    {
+      "value": 66,
+      "level": 3,
+      "expression": "15 × 5 − 9"
+    },
+    {
+      "value": 66,
+      "level": 4,
+      "expression": "(6 + 4) × 4 + 26"
+    },
+    {
+      "value": 66,
+      "level": 5,
+      "expression": "√49 + 6² + 23"
+    },
+    {
+      "value": 67,
+      "level": 1,
+      "expression": "28 + 39"
+    },
+    {
+      "value": 67,
+      "level": 2,
+      "expression": "90 − 23"
+    },
+    {
+      "value": 67,
+      "level": 3,
+      "expression": "13 × 6 − 11"
+    },
+    {
+      "value": 67,
+      "level": 4,
+      "expression": "(7 + 5) × 5 + 7"
+    },
+    {
+      "value": 67,
+      "level": 5,
+      "expression": "√64 + 7² + 10"
+    },
+    {
+      "value": 68,
+      "level": 1,
+      "expression": "29 + 39"
+    },
+    {
+      "value": 68,
+      "level": 2,
+      "expression": "75 − 7"
+    },
+    {
+      "value": 68,
+      "level": 3,
+      "expression": "11 × 7 − 9"
+    },
+    {
+      "value": 68,
+      "level": 4,
+      "expression": "(8 + 6) × 6 − 16"
+    },
+    {
+      "value": 68,
+      "level": 5,
+      "expression": "√81 + 8² − 5"
+    },
+    {
+      "value": 69,
+      "level": 1,
+      "expression": "29 + 40"
+    },
+    {
+      "value": 69,
+      "level": 2,
+      "expression": "77 − 8"
+    },
+    {
+      "value": 69,
+      "level": 3,
+      "expression": "10 × 8 − 11"
+    },
+    {
+      "value": 69,
+      "level": 4,
+      "expression": "(9 + 7) × 7 − 43"
+    },
+    {
+      "value": 69,
+      "level": 5,
+      "expression": "√100 + 9² − 22"
+    },
+    {
+      "value": 70,
+      "level": 1,
+      "expression": "30 + 40"
+    },
+    {
+      "value": 70,
+      "level": 2,
+      "expression": "79 − 9"
+    },
+    {
+      "value": 70,
+      "level": 3,
+      "expression": "36 × 2 − 2"
+    },
+    {
+      "value": 70,
+      "level": 4,
+      "expression": "(10 + 8) × 3 + 16"
+    },
+    {
+      "value": 70,
+      "level": 5,
+      "expression": "√121 + 3² + 50"
+    },
+    {
+      "value": 71,
+      "level": 1,
+      "expression": "30 + 41"
+    },
+    {
+      "value": 71,
+      "level": 2,
+      "expression": "81 − 10"
+    },
+    {
+      "value": 71,
+      "level": 3,
+      "expression": "25 × 3 − 4"
+    },
+    {
+      "value": 71,
+      "level": 4,
+      "expression": "(11 + 9) × 4 − 9"
+    },
+    {
+      "value": 71,
+      "level": 5,
+      "expression": "√144 + 4² + 43"
+    },
+    {
+      "value": 72,
+      "level": 1,
+      "expression": "30 + 42"
+    },
+    {
+      "value": 72,
+      "level": 2,
+      "expression": "83 − 11"
+    },
+    {
+      "value": 72,
+      "level": 3,
+      "expression": "19 × 4 − 4"
+    },
+    {
+      "value": 72,
+      "level": 4,
+      "expression": "(3 + 4) × 5 + 37"
+    },
+    {
+      "value": 72,
+      "level": 5,
+      "expression": "√169 + 5² + 34"
+    },
+    {
+      "value": 73,
+      "level": 1,
+      "expression": "31 + 42"
+    },
+    {
+      "value": 73,
+      "level": 2,
+      "expression": "85 − 12"
+    },
+    {
+      "value": 73,
+      "level": 3,
+      "expression": "16 × 5 − 7"
+    },
+    {
+      "value": 73,
+      "level": 4,
+      "expression": "(4 + 5) × 6 + 19"
+    },
+    {
+      "value": 73,
+      "level": 5,
+      "expression": "√196 + 6² + 23"
+    },
+    {
+      "value": 74,
+      "level": 1,
+      "expression": "31 + 43"
+    },
+    {
+      "value": 74,
+      "level": 2,
+      "expression": "87 − 13"
+    },
+    {
+      "value": 74,
+      "level": 3,
+      "expression": "14 × 6 − 10"
+    },
+    {
+      "value": 74,
+      "level": 4,
+      "expression": "(5 + 6) × 7 − 3"
+    },
+    {
+      "value": 74,
+      "level": 5,
+      "expression": "√225 + 7² + 10"
+    },
+    {
+      "value": 75,
+      "level": 1,
+      "expression": "32 + 43"
+    },
+    {
+      "value": 75,
+      "level": 2,
+      "expression": "89 − 14"
+    },
+    {
+      "value": 75,
+      "level": 3,
+      "expression": "12 × 7 − 9"
+    },
+    {
+      "value": 75,
+      "level": 4,
+      "expression": "(6 + 7) × 3 + 36"
+    },
+    {
+      "value": 75,
+      "level": 5,
+      "expression": "√256 + 8² − 5"
+    },
+    {
+      "value": 76,
+      "level": 1,
+      "expression": "32 + 44"
+    },
+    {
+      "value": 76,
+      "level": 2,
+      "expression": "91 − 15"
+    },
+    {
+      "value": 76,
+      "level": 3,
+      "expression": "11 × 8 − 12"
+    },
+    {
+      "value": 76,
+      "level": 4,
+      "expression": "(7 + 8) × 4 + 16"
+    },
+    {
+      "value": 76,
+      "level": 5,
+      "expression": "√289 + 9² − 22"
+    },
+    {
+      "value": 77,
+      "level": 1,
+      "expression": "33 + 44"
+    },
+    {
+      "value": 77,
+      "level": 2,
+      "expression": "93 − 16"
+    },
+    {
+      "value": 77,
+      "level": 3,
+      "expression": "40 × 2 − 3"
+    },
+    {
+      "value": 77,
+      "level": 4,
+      "expression": "(8 + 9) × 5 − 8"
+    },
+    {
+      "value": 77,
+      "level": 5,
+      "expression": "√49 + 3² + 61"
+    },
+    {
+      "value": 78,
+      "level": 1,
+      "expression": "33 + 45"
+    },
+    {
+      "value": 78,
+      "level": 2,
+      "expression": "95 − 17"
+    },
+    {
+      "value": 78,
+      "level": 3,
+      "expression": "27 × 3 − 3"
+    },
+    {
+      "value": 78,
+      "level": 4,
+      "expression": "(9 + 4) × 6 − 0"
+    },
+    {
+      "value": 78,
+      "level": 5,
+      "expression": "√64 + 4² + 54"
+    },
+    {
+      "value": 79,
+      "level": 1,
+      "expression": "33 + 46"
+    },
+    {
+      "value": 79,
+      "level": 2,
+      "expression": "97 − 18"
+    },
+    {
+      "value": 79,
+      "level": 3,
+      "expression": "21 × 4 − 5"
+    },
+    {
+      "value": 79,
+      "level": 4,
+      "expression": "(10 + 5) × 7 − 26"
+    },
+    {
+      "value": 79,
+      "level": 5,
+      "expression": "√81 + 5² + 45"
+    },
+    {
+      "value": 80,
+      "level": 1,
+      "expression": "34 + 46"
+    },
+    {
+      "value": 80,
+      "level": 2,
+      "expression": "99 − 19"
+    },
+    {
+      "value": 80,
+      "level": 3,
+      "expression": "17 × 5 − 5"
+    },
+    {
+      "value": 80,
+      "level": 4,
+      "expression": "(11 + 6) × 3 + 29"
+    },
+    {
+      "value": 80,
+      "level": 5,
+      "expression": "√100 + 6² + 34"
+    },
+    {
+      "value": 81,
+      "level": 1,
+      "expression": "34 + 47"
+    },
+    {
+      "value": 81,
+      "level": 2,
+      "expression": "101 − 20"
+    },
+    {
+      "value": 81,
+      "level": 3,
+      "expression": "15 × 6 − 9"
+    },
+    {
+      "value": 81,
+      "level": 4,
+      "expression": "(3 + 7) × 4 + 41"
+    },
+    {
+      "value": 81,
+      "level": 5,
+      "expression": "√121 + 7² + 21"
+    },
+    {
+      "value": 82,
+      "level": 1,
+      "expression": "35 + 47"
+    },
+    {
+      "value": 82,
+      "level": 2,
+      "expression": "103 − 21"
+    },
+    {
+      "value": 82,
+      "level": 3,
+      "expression": "13 × 7 − 9"
+    },
+    {
+      "value": 82,
+      "level": 4,
+      "expression": "(4 + 8) × 5 + 22"
+    },
+    {
+      "value": 82,
+      "level": 5,
+      "expression": "√144 + 8² + 6"
+    },
+    {
+      "value": 83,
+      "level": 1,
+      "expression": "35 + 48"
+    },
+    {
+      "value": 83,
+      "level": 2,
+      "expression": "105 − 22"
+    },
+    {
+      "value": 83,
+      "level": 3,
+      "expression": "12 × 8 − 13"
+    },
+    {
+      "value": 83,
+      "level": 4,
+      "expression": "(5 + 9) × 6 − 1"
+    },
+    {
+      "value": 83,
+      "level": 5,
+      "expression": "√169 + 9² − 11"
+    },
+    {
+      "value": 84,
+      "level": 1,
+      "expression": "36 + 48"
+    },
+    {
+      "value": 84,
+      "level": 2,
+      "expression": "107 − 23"
+    },
+    {
+      "value": 84,
+      "level": 3,
+      "expression": "43 × 2 − 2"
+    },
+    {
+      "value": 84,
+      "level": 4,
+      "expression": "(6 + 4) × 7 + 14"
+    },
+    {
+      "value": 84,
+      "level": 5,
+      "expression": "√196 + 3² + 61"
+    },
+    {
+      "value": 85,
+      "level": 1,
+      "expression": "36 + 49"
+    },
+    {
+      "value": 85,
+      "level": 2,
+      "expression": "92 − 7"
+    },
+    {
+      "value": 85,
+      "level": 3,
+      "expression": "30 × 3 − 5"
+    },
+    {
+      "value": 85,
+      "level": 4,
+      "expression": "(7 + 5) × 3 + 49"
+    },
+    {
+      "value": 85,
+      "level": 5,
+      "expression": "√225 + 4² + 54"
+    },
+    {
+      "value": 86,
+      "level": 1,
+      "expression": "36 + 50"
+    },
+    {
+      "value": 86,
+      "level": 2,
+      "expression": "94 − 8"
+    },
+    {
+      "value": 86,
+      "level": 3,
+      "expression": "23 × 4 − 6"
+    },
+    {
+      "value": 86,
+      "level": 4,
+      "expression": "(8 + 6) × 4 + 30"
+    },
+    {
+      "value": 86,
+      "level": 5,
+      "expression": "√256 + 5² + 45"
+    },
+    {
+      "value": 87,
+      "level": 1,
+      "expression": "37 + 50"
+    },
+    {
+      "value": 87,
+      "level": 2,
+      "expression": "96 − 9"
+    },
+    {
+      "value": 87,
+      "level": 3,
+      "expression": "19 × 5 − 8"
+    },
+    {
+      "value": 87,
+      "level": 4,
+      "expression": "(9 + 7) × 5 + 7"
+    },
+    {
+      "value": 87,
+      "level": 5,
+      "expression": "√289 + 6² + 34"
+    },
+    {
+      "value": 88,
+      "level": 1,
+      "expression": "37 + 51"
+    },
+    {
+      "value": 88,
+      "level": 2,
+      "expression": "98 − 10"
+    },
+    {
+      "value": 88,
+      "level": 3,
+      "expression": "16 × 6 − 8"
+    },
+    {
+      "value": 88,
+      "level": 4,
+      "expression": "(10 + 8) × 6 − 20"
+    },
+    {
+      "value": 88,
+      "level": 5,
+      "expression": "√49 + 7² + 32"
+    },
+    {
+      "value": 89,
+      "level": 1,
+      "expression": "38 + 51"
+    },
+    {
+      "value": 89,
+      "level": 2,
+      "expression": "100 − 11"
+    },
+    {
+      "value": 89,
+      "level": 3,
+      "expression": "14 × 7 − 9"
+    },
+    {
+      "value": 89,
+      "level": 4,
+      "expression": "(11 + 9) × 7 − 51"
+    },
+    {
+      "value": 89,
+      "level": 5,
+      "expression": "√64 + 8² + 17"
+    },
+    {
+      "value": 90,
+      "level": 1,
+      "expression": "38 + 52"
+    },
+    {
+      "value": 90,
+      "level": 2,
+      "expression": "102 − 12"
+    },
+    {
+      "value": 90,
+      "level": 3,
+      "expression": "13 × 8 − 14"
+    },
+    {
+      "value": 90,
+      "level": 4,
+      "expression": "(3 + 4) × 3 + 69"
+    },
+    {
+      "value": 90,
+      "level": 5,
+      "expression": "√81 + 9² − 0"
+    }
+  ]
+}

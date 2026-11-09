@@ -1,0 +1,6 @@
+Pencil #1 — Joseph SARDIN / BigSoundBank
+Source and CC0 license declaration: https://bigsoundbank.com/pencil-s0221.html
+Original: https://bigsoundbank.com/UPLOAD/bwf-en/0221.wav
+License: CC0 (public domain)
+Game edit: 24.60–24.76 seconds, mono, high-pass filter, normalization, fades.
+Short 0.16-second cue, triggered after 0.10-second stable hover, with 0.45-second cooldown.

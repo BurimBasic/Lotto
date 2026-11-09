@@ -1,0 +1,35 @@
+# Unity-generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Builds are distributed through GitHub Releases
+/[Bb]uild/
+/[Bb]uilds/
+/dist/
+*.zip
+*.7z
+*.log
+
+# IDE and OS files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Blender backup files; keep the editable .blend originals
+*.blend[0-9]
+*.blend[0-9][0-9]
